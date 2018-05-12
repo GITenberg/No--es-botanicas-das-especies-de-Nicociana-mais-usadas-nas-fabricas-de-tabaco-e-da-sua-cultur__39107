@@ -1,0 +1,34 @@
+_repo: No--es-botanicas-das-especies-de-Nicociana-mais-usadas-nas-fabricas-de-tabaco-e-da-sua-cultur__39107
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Avellar Brotero, Felix de
+    aliases:
+    - Avelar Brotero, Felix de
+    - Brotero, Felix de Avellar
+    - Brotero, Felice de Avellar
+    - Brotero, Félix de Avelar
+    birthdate: 1744
+    deathdate: 1828
+    gutenberg_agent_id: '39847'
+    url: http://www.gutenberg.org/2009/agents/39847
+    wikipedia: http://pt.wikipedia.org/wiki/F%C3%A9lix_de_Avelar_Brotero#.7B.7BLiga.C3.A7.C3.B5es_externas.7D.7D
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39107'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Nicotiana'
+- !lcsh 'Tobacco'
+title: Noções botanicas das especies de Nicociana mais usadas nas fabricas de tabaco,
+  e da sua cultura
+url: http://www.gutenberg.org/ebooks/39107
