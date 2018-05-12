@@ -17,6 +17,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39107#No--es-botanicas-das-especies-de-Nicociana-mais-usadas-nas-fabricas-de-tabaco-e-da-sua-cultur_
 gutenberg_issued: '2012-03-11'
 gutenberg_type: Text
 identifiers:
